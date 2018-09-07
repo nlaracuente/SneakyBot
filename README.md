@@ -1,10 +1,22 @@
-# ldjam41
-Our entry for the LudumDare 41 Jam Competition.
+![alt text][gameplay]
 
-# Description
-You take control of a robot that you’ve hacked to navigate around puzzles using stealth to avoid being detected. Do you have the wits and maneuverability to beat this game?
+# Sneaky Bot
+Is our entry for the [Ludum Dare 41 Game Jam](https://ldjam.com/events/ludum-dare/41/sneaky-bot-1) where the theme was about "Combining Two Incompatible Genres". I think we can all agree that once you combine two incompatible things then they are no longer incompatible. Perhaps a better wording may have been "Combine opposite genres"
 
-We suggest to play in “windowed” mode so that you can close the app when done.
+To protect the assets created by my fellow team members, I have only included the scripts used to create this game.
 
-# LudumDare Entry
-https://ldjam.com/events/ludum-dare/41/sneaky-bot-1
+## Description
+Sneaky Bot is all about remotely controlling a worker robot to infiltrate and hack a fully automated facility to uncover their secrets and provide them to your goverment.
+
+## Play
+- You can [Click Here](https://prodigalson.itch.io/sneaky-bot) to play 
+- Support for Windows Desktop and Browser is available
+
+## Tools
+Sneaky Bot was made using:
+- Unity
+- Blender
+- Audacity
+- Photoshop
+
+[gameplay]: https://img.itch.zone/aW1nLzEyMzg5NDcucG5n/original/2vyO7A.png "Sneaky Bot Gameplay"
