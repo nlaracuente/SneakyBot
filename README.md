@@ -6,7 +6,7 @@ Is our entry for the [Ludum Dare 41 Game Jam](https://ldjam.com/events/ludum-dar
 To protect the assets created by my fellow team members, I have only included the scripts used to create this game.
 
 ## Description
-Sneaky Bot is all about remotely controlling a worker robot to infiltrate and hack a fully automated facility to uncover their secrets and provide them to your goverment.
+Sneaky Bot is all about remotely controlling a worker robot to infiltrate and hack a fully automated facility to uncover their secrets and provide them to your government.
 
 ## Play
 - You can [Click Here](https://prodigalson.itch.io/sneaky-bot) to play 
